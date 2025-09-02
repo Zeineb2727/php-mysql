@@ -8,6 +8,8 @@
     <body>
  
     <!-- L'en-tête -->
+
+     <!-- Le menu -->
     <?php include('header.php'); ?>
     
     <!-- Le corps -->
